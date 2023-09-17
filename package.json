@@ -1,6 +1,7 @@
 {
   "name": "swanky-app-vite-tailwind",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "tsc && vite --host",
     "build": "tsc && vite build",
