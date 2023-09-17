@@ -1,8 +1,8 @@
-import './App.css';
+import "./App.css";
 
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
-import logo from './logo.svg';
+import logo from "./logo.svg";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -21,7 +21,10 @@ function App() {
             🪂 Click me : {count}
           </button>
 
-          <p> Don&apos;t forgot to install Eslint and Prettier in Your Vscode.</p>
+          <p>
+            {" "}
+            Don&apos;t forgot to install Eslint and Prettier in Your Vscode.
+          </p>
 
           <p>
             Mess up the code in <code>App.tsx </code> and save the file.
@@ -35,7 +38,7 @@ function App() {
             >
               Learn React
             </a>
-            {' | '}
+            {" | "}
             <a
               className="App-link"
               href="https://vitejs.dev/guide/features.html"
