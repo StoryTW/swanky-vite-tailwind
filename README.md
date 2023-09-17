@@ -7,7 +7,7 @@ Clone the repo and run `yarn install`
 or Run command
 
 ```
-npx degit TheSwordBreaker/vite-reactts-eslint-prettier project-name
+npx degit StoryTW/swanky-vite-tailwind.git project-name
 ```
 
 ## Start
